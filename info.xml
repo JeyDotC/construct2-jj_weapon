@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<c2addon>
+	<!-- One of: plugin, behavior, effect -->
+	<type>behavior</type>
+	
+	<name>JJ_Weapon</name>	
+	<version>1.1</version>
+	<author>JeyDotC and JohnJ</author>
+	<website>https://github.com/JeyDotC/JeyDotc-C2-Extensions</website>
+	<documentation>https://www.construct.net/co/construct-2/addons/88/jj-weapon/documentation</documentation>
+	<description>Represents weapon logic with a bullets stock, bullet clips, shoot/reload times and bullet instantiation..</description>
+</c2addon>
